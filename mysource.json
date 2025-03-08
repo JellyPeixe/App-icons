@@ -23,6 +23,27 @@
           "minOSVersion": "12.0"
         }
       ]
+    },
+    {
+      "name": "Twitch",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "Amazon",
+      "localizedDescription": "The most popular stream app.",
+      "downloadURL": "https://www.dropbox.com/s/7irzv3y4p3q49te/TwitchAdBlock_23.4-0.1.5.ipa?st=pgo032oo&dl=1",
+      "iconURL": "https://github.com/JellyPeixe/App-icons/blob/main/Twitch.png",
+      "tintColor": "6441a5",
+      "subtitle": "Twitch ables you to watch your favorite streamers around the world.",
+      "beta": false,
+      "versions": [
+        {
+          "version": "23.4",
+          "date": "2025-03-07T14:49:03Z",
+          "localizedDescription": "Updated to latest version.",
+          "downloadURL": "https://www.dropbox.com/s/7irzv3y4p3q49te/TwitchAdBlock_23.4-0.1.5.ipa?st=pgo032oo&dl=1",
+          "size": 125480289,
+          "minOSVersion": "12.0"
+        }
+      ]
     }
   ]
 }
