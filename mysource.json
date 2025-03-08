@@ -44,6 +44,27 @@
           "minOSVersion": "12.0"
         }
       ]
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "localizedDescription": "A Reddit Client.",
+      "downloadURL": "https://www.dropbox.com/s/c4a8d0ionbimvkc/Apollo-1.15.11_ImprovedCustomApi-1.2.2.ipa?st=pmnvfx46&dl=1",
+      "iconURL": "https://github.com/JellyPeixe/App-icons/blob/main/Twitch.png?raw=true",
+      "tintColor": "220afa",
+      "subtitle": "Browse Reddit with a custom Client for a cleaner experience. App modified with ImprovedCustomApi 1.2.2.",
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.15.11",
+          "date": "2025-03-07T14:49:03Z",
+          "localizedDescription": "Updated to latest version.",
+          "downloadURL": "https://www.dropbox.com/s/c4a8d0ionbimvkc/Apollo-1.15.11_ImprovedCustomApi-1.2.2.ipa?st=pmnvfx46&dl=1",
+          "size": 125480289,
+          "minOSVersion": "12.0"
+        }
+      ]
     }
   ]
 }
