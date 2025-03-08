@@ -61,7 +61,28 @@
           "date": "2025-03-07T14:49:03Z",
           "localizedDescription": "Updated to latest version.",
           "downloadURL": "https://www.dropbox.com/s/c4a8d0ionbimvkc/Apollo-1.15.11_ImprovedCustomApi-1.2.2.ipa?st=pmnvfx46&dl=1",
-          "size": 125480289,
+          "size": 114650898,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Twitter INC.",
+      "localizedDescription": "A Twitter Client.",
+      "downloadURL": "https://www.dropbox.com/s/t096nfwdjbczvhf/BHX-10.52-4.3.ipa?st=tnubz668&dl=1",
+      "iconURL": "https://github.com/JellyPeixe/App-icons/blob/main/Twitter%20Icon.png?raw=true",
+      "tintColor": "2fb1e0",
+      "subtitle": "Browse Twitter without annoyances. App modified with BHX 10.52.",
+      "beta": false,
+      "versions": [
+        {
+          "version": "10.52",
+          "date": "2025-03-08T12:33:03Z",
+          "localizedDescription": "Updated to 10.52.",
+          "downloadURL": "https://www.dropbox.com/s/t096nfwdjbczvhf/BHX-10.52-4.3.ipa?st=tnubz668&dl=1",
+          "size": 132242167,
           "minOSVersion": "12.0"
         }
       ]
