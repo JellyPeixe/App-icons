@@ -1,0 +1,28 @@
+{
+  "name": "JellyRepo",
+  "identifier": "com.jelly.sources",
+  "sourceURL": "https://raw.githubusercontent.com/JellyPeixe/App-icons/refs/heads/main/mysource.json",
+  "apps": [
+    {
+      "name": "Acrobat",
+      "bundleIdentifier": "com.adobe.Adobe-Reader",
+      "developerName": "Adobe",
+      "localizedDescription": "Acrobat is a document editor mainly for PDFs.",
+      "downloadURL": "https://www.icloud.com/iclouddrive/087SvRXtRdlsAD9XaBs3iuPog#Adobe_Acrobat_Reader_Premium_25.01.ipa",
+      "iconURL": "https://github.com/JellyPeixe/App-icons/blob/main/AdobeAcrobat.png?raw=true",
+      "tintColor": "ff1e00",
+      "subtitle": "Acrobat is a document editor mainly for PDFs.",
+      "beta": false,
+      "versions": [
+        {
+          "version": "1",
+          "date": "2025-03-07T14:49:03Z",
+          "localizedDescription": "Updated to latest version.",
+          "downloadURL": "https://www.icloud.com/iclouddrive/087SvRXtRdlsAD9XaBs3iuPog#Adobe_Acrobat_Reader_Premium_25.01.ipa",
+          "size": 151171770,
+          "minOSVersion": "12.0"
+        }
+      ]
+    }
+  ]
+}
