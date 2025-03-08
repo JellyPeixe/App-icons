@@ -8,7 +8,7 @@
       "bundleIdentifier": "com.adobe.Adobe-Reader",
       "developerName": "Adobe",
       "localizedDescription": "Acrobat is a document editor mainly for PDFs.",
-      "downloadURL": "https://www.dropbox.com/s/1cz4s99pvxzt5sx/Adobe%20Acrobat%20Reader%20Premium%2025.01.05.ipa?st=v0gqo67j&dl=0",
+      "downloadURL": "https://www.dropbox.com/s/1cz4s99pvxzt5sx/Adobe%20Acrobat%20Reader%20Premium%2025.01.05.ipa?st=v0gqo67j&dl=1",
       "iconURL": "https://github.com/JellyPeixe/App-icons/blob/main/AdobeAcrobat.png?raw=true",
       "tintColor": "ff1e00",
       "subtitle": "Acrobat is a document editor mainly for PDFs.",
@@ -18,7 +18,7 @@
           "version": "25.01.05",
           "date": "2025-03-07T14:49:03Z",
           "localizedDescription": "Updated to latest version.",
-          "downloadURL": "https://www.dropbox.com/s/1cz4s99pvxzt5sx/Adobe%20Acrobat%20Reader%20Premium%2025.01.05.ipa?st=v0gqo67j&dl=0",
+          "downloadURL": "https://www.dropbox.com/s/1cz4s99pvxzt5sx/Adobe%20Acrobat%20Reader%20Premium%2025.01.05.ipa?st=v0gqo67j&dl=1",
           "size": 151171770,
           "minOSVersion": "12.0"
         }
