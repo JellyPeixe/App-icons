@@ -30,7 +30,7 @@
       "developerName": "Amazon",
       "localizedDescription": "The most popular stream app.",
       "downloadURL": "https://www.dropbox.com/s/7irzv3y4p3q49te/TwitchAdBlock_23.4-0.1.5.ipa?st=pgo032oo&dl=1",
-      "iconURL": "https://github.com/JellyPeixe/App-icons/blob/main/Twitch.png",
+      "iconURL": "https://github.com/JellyPeixe/App-icons/blob/main/Twitch.png?raw=true",
       "tintColor": "6441a5",
       "subtitle": "Twitch ables you to watch your favorite streamers around the world.",
       "beta": false,
